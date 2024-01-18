@@ -41,4 +41,9 @@ KMeans clustering is applied to group similar data points based on "perimeter" a
 
 Make sure to have these dependencies installed before running the code.
 
+### Dataset Citation
+If you use this dataset, please cite the original source:
+
+Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lukasik,Szymon. (2012). Seeds. UCI Machine Learning Repository. https://doi.org/10.24432/C5H30K.
+
 Happy coding!
